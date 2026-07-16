@@ -11,10 +11,10 @@ O principal objetivo é otimizar o fluxo de informações e contribuir para um a
 ## Equipe de Desenvolvimento
 
 - **Erik Guilherme Honorio de Souza** — Líder da equipe e Designer de Interface
-- **Membro 2** — Pesquisador de UX
-- **Membro 3** — Designer do Protótipo
-- **Membro 4** — Responsável pela Documentação
-- **Membro 5** — Suporte e Testes
+- **Louise Martins** — Pesquisador de UX
+- **Beatriz Prazim** — Designer do Protótipo
+- **Felipe Affal** — Responsável pela Documentação
+- **Gabrielle Mendes** — Suporte e Testes
 
 Todos os integrantes contribuíram com pesquisas, idealização da solução e desenvolvimento da interface, buscando criar um protótipo intuitivo, acessível e funcional dentro da proposta do projeto.
 
