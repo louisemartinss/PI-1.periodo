@@ -1,52 +1,60 @@
-## Overview: XXX – Nutritional Support for People with Autism Spectrum Disorder (ASD)
+## Visão Geral: XXX – Suporte Nutricional para Pessoas com Transtorno do Espectro Autista (TEA)
 
-The XXX project aims to improve communication between caregivers and healthcare professionals involved in the care of individuals with Autism Spectrum Disorder (ASD).
-Through a functional prototype developed in Figma, the platform demonstrates how caregivers could register the patient’s daily meals, track food acceptance or refusal, and share this data with professionals before medical appointments.
+O projeto **XXX** tem como objetivo melhorar a comunicação entre cuidadores e profissionais de saúde envolvidos no acompanhamento de pessoas com Transtorno do Espectro Autista (TEA).
 
-The main objective is to optimize the information flow and enhance the quality of care, reducing waiting times and helping professionals better understand the patient’s eating behavior in advance.
+Por meio de um protótipo funcional desenvolvido no **Figma**, a plataforma demonstra como os cuidadores podem registrar a alimentação diária do paciente, acompanhar a aceitação ou recusa dos alimentos e compartilhar essas informações com os profissionais antes das consultas.
 
-## Development Team
+O principal objetivo é otimizar o fluxo de informações e contribuir para um atendimento mais eficiente, reduzindo o tempo gasto durante as consultas e permitindo que os profissionais compreendam previamente os hábitos alimentares do paciente.
 
-Erik Guilherme Honorio de Souza – Team Leader / Interface Designer
+---
 
-Member 2 – UX Researcher
+## Equipe de Desenvolvimento
 
-Member 3 – Prototype Designer
+- **Erik Guilherme Honorio de Souza** — Líder da equipe e Designer de Interface
+- **Membro 2** — Pesquisador de UX
+- **Membro 3** — Designer do Protótipo
+- **Membro 4** — Responsável pela Documentação
+- **Membro 5** — Suporte e Testes
 
-Member 4 – Documentation Writer
+Todos os integrantes contribuíram com pesquisas, idealização da solução e desenvolvimento da interface, buscando criar um protótipo intuitivo, acessível e funcional dentro da proposta do projeto.
 
-Member 5 – Support and Testing
+---
 
-Each member contributed to research, ideation, and interface design to ensure that the proposed solution is intuitive, inclusive, and functional within the scope of digital prototyping.
+## Tecnologias Utilizadas
 
-## Technology Used
+### Figma
 
-Figma – Used for prototyping, wireframing, and interface design.
-This tool allowed the team to visually represent user flows, define system architecture, and create an interactive prototype to simulate the platform’s navigation and usability.
+Ferramenta utilizada para criação dos wireframes, prototipação e design da interface.
 
-## How to Use
+Com ela, a equipe conseguiu representar visualmente os fluxos de navegação, estruturar a arquitetura da aplicação e desenvolver um protótipo interativo que simula o funcionamento da plataforma.
 
-Access the Prototype
-Open the XXX prototype through the provided Figma link.
+---
 
-Start at the Login Screen
-Choose whether to log in as a Caregiver or Professional.
+## Como Utilizar
 
-Caregiver Navigation
+### 1. Acesse o Protótipo
 
-Register the patient’s daily meals;
+Abra o protótipo através do link disponibilizado no Figma.
 
-Indicate whether each food was accepted or refused;
+### 2. Faça o Login
 
-Add notes or comments for the professional.
+Escolha o perfil de acesso:
 
-Professional Navigation
+- Cuidador
+- Profissional de Saúde
 
-View the patient’s food history;
+### 3. Navegação do Cuidador
 
-Analyze patterns and previous notes;
+- Registrar a alimentação diária do paciente;
+- Informar se cada alimento foi aceito ou recusado;
+- Adicionar observações para o profissional responsável.
 
-Recommend strategies or new foods for gradual introduction.
+### 4. Navegação do Profissional
 
-Prototype Exploration
-Use clickable areas to navigate between screens and experience how the final application would function.
+- Visualizar o histórico alimentar do paciente;
+- Analisar padrões e observações registradas;
+- Recomendar estratégias ou novos alimentos para introdução gradual.
+
+### 5. Exploração do Protótipo
+
+Utilize as áreas clicáveis para navegar entre as telas e visualizar como seria o funcionamento da aplicação em um ambiente real.
